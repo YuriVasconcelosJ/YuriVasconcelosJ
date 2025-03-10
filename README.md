@@ -1,37 +1,23 @@
-# Olá mundo!
+# 👋 Olá, eu sou Yuri Vasconcelos!
 
-###
+🎯 **Desenvolvedor Web | Python | JavaScript**
 
-<p align="left">My name is ... and I'm a ..., from ....</p>
+Estou no **5º e último período do curso de Análise e Desenvolvimento de Sistemas (ADS)**. Tenho experiência em **JavaScript, Vue.js, Python, MySQL e Firebase** e atualmente estou desenvolvendo projetos focados em **aplicações web, APIs REST.**
 
-###
+---
 
-<h2 align="left">About me</h2>
+## 🚀 Tecnologias e Ferramentas
 
-###
+💻 **Back-end:** Python, Node.js, Express
+🖥 **Front-end:** JavaScript, Vue.js, Vuetify
+🗄 **Banco de Dados:** MySQL, Firebase Firestore
+⚡ **Outras Ferramentas:** Git, GitHub, Postman, Docker
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+---
 
-###
+## 📞 Entre em Contato
 
-<h2 align="left">I code with</h2>
+📧 **E-mail:** [ficryjv@gmail.com](mailto\:ficryjv@gmail.com)
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" height="40" alt="django logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo" />
-</div>
-
-###
