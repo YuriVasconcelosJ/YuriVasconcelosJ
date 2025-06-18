@@ -20,15 +20,8 @@ Atualmente curso o **5º e último período de Análise e Desenvolvimento de Sis
 
 ## 📌 Projetos em Destaque
 
-- 🔹 [**Sistema PDV (JavaFX + MySQL)**](https://github.com/seu-usuario/pdv-javafx)  
+- 🔹 [**Sistema PDV (JavaFX + MySQL)**](https://github.com/Felipe-Sabino-d-Oliveira/freelance_pdv)  
   Aplicação de ponto de venda com cadastro de produtos, controle de estoque e interface em JavaFX.
-
-- 🔹 [**Encurtador de Links (React + MySQL)**](https://github.com/seu-usuario/encurtador-links)  
-  Aplicação fullstack com front-end em React e back-end em PHP/MySQL.  
-  Interface simples e responsiva com painel de visualizações.
-
-- 🔹 [**API RESTful com Python (Flask)**](https://github.com/seu-usuario/api-python-flask)  
-  API para cadastro e listagem de usuários com validações, banco de dados relacional e boas práticas REST.
 
 ---
 
