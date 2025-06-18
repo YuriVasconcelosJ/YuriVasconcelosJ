@@ -1,25 +1,59 @@
 # 👋 Olá, eu sou Yuri Vasconcelos!
 
-🎯 **Desenvolvedor Web | PHP | JavaScript | React**
+🎯 **Desenvolvedor Web | JavaScript | React | Python | Java**
 
-Estou no **5º e último período do curso de Análise e Desenvolvimento de Sistemas (ADS)**. Tenho experiência em **JavaScript, PHP, Python, MySQL e Firebase**, e atualmente estou desenvolvendo projetos focados em **aplicações web, APIs REST e estrutura MVC**.
+Atualmente curso o **5º e último período de Análise e Desenvolvimento de Sistemas (ADS)**. Tenho experiência em desenvolvimento de aplicações web com foco em **front-end com React** e **back-end com Python, Java e MySQL**, aplicando arquitetura **MVC**, consumo de APIs e práticas de código limpo.
 
 ---
 
 ## 🚀 Tecnologias e Ferramentas
 
-![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
-![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 
 ---
 
-## 📞 Entre em Contato
+## 📌 Projetos em Destaque
 
-📧 **E-mail:** [ficryjv@gmail.com](mailto:ficryjv@gmail.com)
+- 🔹 [**Sistema PDV (JavaFX + MySQL)**](https://github.com/seu-usuario/pdv-javafx)  
+  Aplicação de ponto de venda com cadastro de produtos, controle de estoque e interface em JavaFX.
+
+- 🔹 [**Encurtador de Links (React + MySQL)**](https://github.com/seu-usuario/encurtador-links)  
+  Aplicação fullstack com front-end em React e back-end em PHP/MySQL.  
+  Interface simples e responsiva com painel de visualizações.
+
+- 🔹 [**API RESTful com Python (Flask)**](https://github.com/seu-usuario/api-python-flask)  
+  API para cadastro e listagem de usuários com validações, banco de dados relacional e boas práticas REST.
+
+---
+
+## 📚 Atualmente Estudando
+
+- React com hooks, rotas e componentização avançada  
+- Integração entre front-end e back-end com REST  
+- Frameworks Python (Flask e Django)  
+- Boas práticas com testes, validações e Clean Code
+
+---
+
+## 📫 Entre em Contato
+
+- Email: [ficryjv@gmail.com](mailto:ficryjv@gmail.com)  
+<!-- - LinkedIn: [linkedin.com/in/seu-linkedin](https://linkedin.com/in/seu-linkedin) -->
+
+---
+
+## ✨ Sobre Mim
+
+- 🧠 Curioso por natureza, gosto de entender como tudo funciona por trás do código  
+- 🔧 Adoro projetos práticos para consolidar meu aprendizado  
+- 🚀 Busco oportunidades para evoluir como desenvolvedor fullstack
+
+---
+
+Obrigado por visitar meu perfil! ⭐  
