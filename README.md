@@ -55,7 +55,6 @@ Meu foco atual está em desenvolvimento com **Java e Spring Boot**, aplicando co
 
 ## ✨ Sobre Mim
 
-- 🧠 Curioso por natureza, sempre buscando entender os bastidores do código  
 - 🛠️ Apaixonado por projetos práticos e desafios de lógica  
 - 🚀 Foco em evoluir como **desenvolvedor back-end Java**, sem deixar de explorar e dominar outras tecnologias web  
 
