@@ -11,7 +11,7 @@ Possuo experiência na construção de **APIs RESTful**, integração com bancos
 ## 🚀 Tecnologias
 
 **Back-End:**
-Java • Spring Boot • Django • PHP • Python
+Java • Spring Boot • Django • Python
 
 **Front-End:**
 React • JavaScript • Bootstrap
