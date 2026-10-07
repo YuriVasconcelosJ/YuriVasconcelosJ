@@ -1,4 +1,4 @@
-# Hi there, I'm Yuri Vasconcelos 👋
+# Hello there, I'm Yuri Vasconcelos 👋
 
 ### 🎯 Java & Spring Boot Back-End Developer
 
