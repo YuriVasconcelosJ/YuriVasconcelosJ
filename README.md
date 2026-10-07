@@ -1,49 +1,38 @@
-# 👋 Yuri Vasconcelos
+# Hi there, I'm Yuri Vasconcelos 👋
 
-🎯 **Desenvolvedor Back-End | Java | Spring Boot | Django | APIs REST**
+### 🎯 Java & Spring Boot Back-End Developer
 
-Formado em **Análise e Desenvolvimento de Sistemas**, com foco em desenvolvimento **back-end utilizando Java (Spring Boot) e Python (Django)**.
+Engenheiro de Software focado em desenvolvimento **Back-End**, especializado no ecossistema **Java (Spring Boot)** e com experiência em **Python (Django)**. 
 
-Possuo experiência na construção de **APIs RESTful**, integração com bancos de dados relacionais (**MySQL**) e aplicação de boas práticas como **Clean Code** e **arquitetura MVC**. Também tenho conhecimento em **React**, contribuindo para a integração entre front-end e back-end.
-
----
-
-## 🚀 Tecnologias
-
-**Back-End:**
-Java • Spring Boot • Django • Python
-
-**Front-End:**
-React • JavaScript • Bootstrap
-
-**Banco de Dados:**
-MySQL
-
-**Ferramentas:**
-Git • VS Code
+Tenho experiência na construção de **APIs RESTful escaláveis, seguras e de alta performance**, aplicando boas práticas como **SOLID, Clean Code, Arquitetura em Camadas/Clean Architecture** e integração com bancos de dados relacionais e ORMs (**MySQL, JPA / Hibernate**).
 
 ---
 
-## 📌 Projetos
+## 🛠️ Tech Stack & Ferramentas
 
-🔹 **Sistema PDV (JavaFX + MySQL)**
-Aplicação desktop com controle de estoque, cadastro de produtos e interface gráfica.
-👉 https://github.com/Felipe-Sabino-d-Oliveira/freelance_pdv
+**Back-End (Principal):**
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white)
 
-🔹 **API REST com Spring Boot** *(em desenvolvimento)*
-API com autenticação, CRUD de usuários e integração com banco de dados.
+**Back-End (Secundário) & Bancos de Dados:**
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Django](https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white)
+![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
+
+**Front-End & Utilitários:**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
+## 📌 Projetos em Destaque
 
-## 📫 Contato
+### 🔹 [Sistema PDV - Ponto de Venda](https://github.com/YuriVascsH/MercadinhoProvidence)
+> *Aplicação desktop completa para gestão de estoque e controle de vendas.*
+* **Tecnologias:** Java, JavaFX, MySQL.
+* **Minha contribuição:** Desenvolvimento da lógica de negócios back-end, modelagem do banco de dados e integração das rotas de cadastro/controle de produtos com a interface gráfica.
 
-📧 Email: [ficryjv@gmail.com](mailto:ficryjv@gmail.com)
-
----
-
-## 💡 Perfil
-
-* Foco em desenvolvimento **back-end**
-* Experiência com múltiplas stacks (**Java e Python**)
-* Interesse em **arquitetura de APIs e sistemas escaláveis**
